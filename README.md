@@ -1,1 +1,1 @@
-Common Javascript Algorithms
+*Common Javascript Algorithms
